@@ -3,9 +3,9 @@
   <h2> Hi! I'm a 17 y/o developer & researcher</h2>
   <ul>
     <li> Interested in research related to cs & math</li>
-    <li> Freshman at Purdue cs & math 
+    <li> Freshman at Purdue
     <li> Languages: Python (& most DS related libraries), R, Web Dev (quite a few JS libraries), Google APIs, & Kubernetes</li>
-    <li> Hoping to create my own language through uni</li>
+    <li> Hoping to create my own language through college</li>
   </ul>
 </div>
 
